@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+  <nav class="navbar navbar-expand-lg sticky-top shadow-sm">
     <div class="container">
       <router-link class="navbar-brand fw-bold" to="/">TechView</router-link>
 
